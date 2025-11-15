@@ -4,7 +4,8 @@ A premium product landing page concept created in Figma for the Nike Air Zoom Pe
 Designed to showcase a bold and dynamic presentation with strong typography, meaningful spacing, and vibrant accent colors.
 
 ## 🎬 Preview  
-__
+_![Uploading Frame.png…]()
+_
 
 ![Landing Page Preview](./airzoom-preview.png)
 
